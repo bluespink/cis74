@@ -1,3 +1,5 @@
+###Automating Web Tests Using Selenium IDE
+
 The folder *SeleniumIDE* includes a small test suite of tests for De Anza's [Online Searchable Schedule](http://www.deanza.edu/schedule/classes/) page. Each test's passing criteria is that this class appears in the search results. Below are the TDS summaries for each test case:
 
 - Course Type: **Hybrid Classes**
