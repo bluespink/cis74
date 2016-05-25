@@ -1,4 +1,4 @@
-The folder SeleniumIDE includes a small test suite of tests for De Anza's **Online Searchable Schedule** page. Each test's passing criteria is that this class appears in the search results. Below are the TDS summaries for each test case:
+The folder *SeleniumIDE* includes a small test suite of tests for De Anza's **Online Searchable Schedule** page. Each test's passing criteria is that this class appears in the search results. Below are the TDS summaries for each test case:
 
     Course Type: Hybrid Classes
     Course Num: 74
